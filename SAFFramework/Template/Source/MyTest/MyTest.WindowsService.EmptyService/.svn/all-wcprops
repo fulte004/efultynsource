@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/16/trunk/SAFFramework/Template/Source/MyTest/MyTest.WindowsService.EmptyService
+END
+MyTest.WindowsService.EmptyService.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/16/trunk/SAFFramework/Template/Source/MyTest/MyTest.WindowsService.EmptyService/MyTest.WindowsService.EmptyService.csproj
+END
+EmptyService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/16/trunk/SAFFramework/Template/Source/MyTest/MyTest.WindowsService.EmptyService/EmptyService.cs
+END
+app.config
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/16/trunk/SAFFramework/Template/Source/MyTest/MyTest.WindowsService.EmptyService/app.config
+END
+EmptyServiceEvents.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/16/trunk/SAFFramework/Template/Source/MyTest/MyTest.WindowsService.EmptyService/EmptyServiceEvents.cs
+END

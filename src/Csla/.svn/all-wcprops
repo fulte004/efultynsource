@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/9/trunk/src/Csla
+END
+DataPortal.java
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/trunk/src/Csla/DataPortal.java
+END
+ArgumentNullException.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/src/Csla/ArgumentNullException.java
+END
+CriteriaBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/src/Csla/CriteriaBase.java
+END
+DataPortalEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/src/Csla/DataPortalEvent.java
+END
+PropertyChangedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/src/Csla/PropertyChangedEvent.java
+END
+Transactional.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/src/Csla/Transactional.java
+END
+PropertyChangedListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/src/Csla/PropertyChangedListener.java
+END
+ReadOnlyListBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/src/Csla/ReadOnlyListBase.java
+END
+FormatException.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/src/Csla/FormatException.java
+END
+ApplicationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/src/Csla/ApplicationContext.java
+END
+ReadOnlyBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/src/Csla/ReadOnlyBase.java
+END
+CancelAddNew.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/src/Csla/CancelAddNew.java
+END
+CommandBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/src/Csla/CommandBase.java
+END
+DataPortalException.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/src/Csla/DataPortalException.java
+END
+NotUndoable.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/src/Csla/NotUndoable.java
+END
+Utilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/src/Csla/Utilities.java
+END
+TypeCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/src/Csla/TypeCode.java
+END
+IFormatProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/src/Csla/IFormatProvider.java
+END
+RunLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/src/Csla/RunLocal.java
+END
+TimeSpan.java
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/src/Csla/TimeSpan.java
+END
+IConvertible.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/src/Csla/IConvertible.java
+END
+FilteredBindingList.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/src/Csla/FilteredBindingList.java
+END
+NotifyPropertyChanged.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/src/Csla/NotifyPropertyChanged.java
+END
+SortedBindingList.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/src/Csla/SortedBindingList.java
+END
+TransactionalTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/src/Csla/TransactionalTypes.java
+END
+DefaultFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/src/Csla/DefaultFilter.java
+END
+EventArgs.java
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/src/Csla/EventArgs.java
+END
+EventSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/src/Csla/EventSource.java
+END
+DataPortalEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/src/Csla/DataPortalEventListener.java
+END
+MethodCaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/src/Csla/MethodCaller.java
+END
+NameValueListBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/src/Csla/NameValueListBase.java
+END
+EditableRootListBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/src/Csla/EditableRootListBase.java
+END
+FilterProviderListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/src/Csla/FilterProviderListener.java
+END
+Configuration.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/src/Csla/Configuration.java
+END
+CallType.java
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/src/Csla/CallType.java
+END
+BusinessListBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/src/Csla/BusinessListBase.java
+END
+OverflowException.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/src/Csla/OverflowException.java
+END
+SmartDate.java
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/src/Csla/SmartDate.java
+END
+NotSupportedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/src/Csla/NotSupportedException.java
+END
+BusinessBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/src/Csla/BusinessBase.java
+END

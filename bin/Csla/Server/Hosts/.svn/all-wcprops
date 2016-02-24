@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/bin/Csla/Server/Hosts
+END
+RemotingPortal.class
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/bin/Csla/Server/Hosts/RemotingPortal.class
+END
+WebServicePortal$FetchRequest.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/bin/Csla/Server/Hosts/WebServicePortal$FetchRequest.class
+END
+MetroPortal.class
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/bin/Csla/Server/Hosts/MetroPortal.class
+END
+WebServicePortal$UpdateRequest.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/bin/Csla/Server/Hosts/WebServicePortal$UpdateRequest.class
+END
+WebServicePortal.class
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/bin/Csla/Server/Hosts/WebServicePortal.class
+END
+WebServicePortal$DeleteRequest.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/bin/Csla/Server/Hosts/WebServicePortal$DeleteRequest.class
+END
+IMetroPortal.class
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/bin/Csla/Server/Hosts/IMetroPortal.class
+END
+WebServicePortal$CreateRequest.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/bin/Csla/Server/Hosts/WebServicePortal$CreateRequest.class
+END

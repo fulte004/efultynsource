@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/src/Csla/Validation
+END
+SharedValidationRules.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/src/Csla/Validation/SharedValidationRules.java
+END
+DecoratedRuleArgs.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/src/Csla/Validation/DecoratedRuleArgs.java
+END
+ValidationRulesManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/Csla/Validation/ValidationRulesManager.java
+END
+RuleSeverity.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/src/Csla/Validation/RuleSeverity.java
+END
+CommonRules.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/src/Csla/Validation/CommonRules.java
+END
+RuleHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/src/Csla/Validation/RuleHandler.java
+END
+ValidationRules.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/src/Csla/Validation/ValidationRules.java
+END
+BrokenRulesCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/src/Csla/Validation/BrokenRulesCollection.java
+END
+RuleMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/src/Csla/Validation/RuleMethod.java
+END
+BrokenRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/src/Csla/Validation/BrokenRule.java
+END
+ValidationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/Csla/Validation/ValidationException.java
+END
+RuleDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/src/Csla/Validation/RuleDescription.java
+END
+IRuleMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/src/Csla/Validation/IRuleMethod.java
+END
+RuleArgs.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/src/Csla/Validation/RuleArgs.java
+END
+RulesList.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/src/Csla/Validation/RulesList.java
+END

@@ -1,0 +1,329 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/2/trunk/bin/Csla
+END
+TimeSpan$StringParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/bin/Csla/TimeSpan$StringParser.class
+END
+NameValueListBase$Criteria.class
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/bin/Csla/NameValueListBase$Criteria.class
+END
+DataPortal.class
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/bin/Csla/DataPortal.class
+END
+ArgumentNullException.class
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/bin/Csla/ArgumentNullException.class
+END
+CriteriaBase.class
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/bin/Csla/CriteriaBase.class
+END
+ApplicationContext$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/bin/Csla/ApplicationContext$1.class
+END
+ApplicationContext$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/bin/Csla/ApplicationContext$2.class
+END
+ApplicationContext$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/bin/Csla/ApplicationContext$3.class
+END
+Transactional.class
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/bin/Csla/Transactional.class
+END
+DataPortalEventListener.class
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/bin/Csla/DataPortalEventListener.class
+END
+PropertyChangedListener.class
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/bin/Csla/PropertyChangedListener.class
+END
+FilteredBindingList$ListItem.class
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/bin/Csla/FilteredBindingList$ListItem.class
+END
+EditableRootListBase.class
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/bin/Csla/EditableRootListBase.class
+END
+FilterProviderListener.class
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/bin/Csla/FilterProviderListener.class
+END
+SortedBindingList$ListItem.class
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/bin/Csla/SortedBindingList$ListItem.class
+END
+Configuration.class
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/bin/Csla/Configuration.class
+END
+DataPortalException.class
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/bin/Csla/DataPortalException.class
+END
+NotUndoable.class
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/bin/Csla/NotUndoable.class
+END
+ApplicationContext$ExecutionLocations.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/bin/Csla/ApplicationContext$ExecutionLocations.class
+END
+IFormatProvider.class
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/bin/Csla/IFormatProvider.class
+END
+RunLocal.class
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/bin/Csla/RunLocal.class
+END
+ApplicationContext$SerializationFormatters.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/bin/Csla/ApplicationContext$SerializationFormatters.class
+END
+BusinessListBase.class
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/bin/Csla/BusinessListBase.class
+END
+IConvertible.class
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/bin/Csla/IConvertible.class
+END
+NotSupportedException.class
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/bin/Csla/NotSupportedException.class
+END
+BusinessBase.class
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/bin/Csla/BusinessBase.class
+END
+TransactionalTypes.class
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/bin/Csla/TransactionalTypes.class
+END
+TimeSpan$ParseError.class
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/bin/Csla/TimeSpan$ParseError.class
+END
+DefaultFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/bin/Csla/DefaultFilter.class
+END
+DataPortalEvent.class
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/bin/Csla/DataPortalEvent.class
+END
+EventArgs.class
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/bin/Csla/EventArgs.class
+END
+PropertyChangedEvent.class
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/bin/Csla/PropertyChangedEvent.class
+END
+EventSource.class
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/bin/Csla/EventSource.class
+END
+MethodCaller.class
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/bin/Csla/MethodCaller.class
+END
+NameValueListBase.class
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/bin/Csla/NameValueListBase.class
+END
+SmartDate$EmptyValue.class
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/bin/Csla/SmartDate$EmptyValue.class
+END
+ReadOnlyListBase.class
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/bin/Csla/ReadOnlyListBase.class
+END
+FormatException.class
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/bin/Csla/FormatException.class
+END
+ApplicationContext.class
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/bin/Csla/ApplicationContext.class
+END
+ReadOnlyBase.class
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/bin/Csla/ReadOnlyBase.class
+END
+CancelAddNew.class
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/bin/Csla/CancelAddNew.class
+END
+CommandBase.class
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/bin/Csla/CommandBase.class
+END
+FilteredBindingList$FilteredEnumerator.class
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/bin/Csla/FilteredBindingList$FilteredEnumerator.class
+END
+Utilities.class
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/bin/Csla/Utilities.class
+END
+TypeCode.class
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/bin/Csla/TypeCode.class
+END
+CallType.class
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/bin/Csla/CallType.class
+END
+SortedBindingList$SortedEnumerator.class
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/bin/Csla/SortedBindingList$SortedEnumerator.class
+END
+TimeSpan.class
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/bin/Csla/TimeSpan.class
+END
+NameValueListBase$NameValuePair.class
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/bin/Csla/NameValueListBase$NameValuePair.class
+END
+OverflowException.class
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/bin/Csla/OverflowException.class
+END
+SmartDate.class
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/bin/Csla/SmartDate.class
+END
+FilteredBindingList.class
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/bin/Csla/FilteredBindingList.class
+END
+SortedBindingList.class
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/bin/Csla/SortedBindingList.class
+END
+NotifyPropertyChanged.class
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/bin/Csla/NotifyPropertyChanged.class
+END

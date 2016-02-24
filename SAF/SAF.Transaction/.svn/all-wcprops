@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/13/trunk/SAF/SAF.Transaction
+END
+SAF.snk
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/13/trunk/SAF/SAF.Transaction/SAF.snk
+END
+TransactionManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/13/trunk/SAF/SAF.Transaction/TransactionManager.cs
+END
+SAF.Transaction.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/13/trunk/SAF/SAF.Transaction/SAF.Transaction.csproj
+END
+AssemblyInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/13/trunk/SAF/SAF.Transaction/AssemblyInfo.cs
+END

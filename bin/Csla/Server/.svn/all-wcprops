@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/bin/Csla/Server
+END
+TransactionalDataPortal.class
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/bin/Csla/Server/TransactionalDataPortal.class
+END
+DataPortalContext.class
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/bin/Csla/Server/DataPortalContext.class
+END
+SimpleDataPortal.class
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/bin/Csla/Server/SimpleDataPortal.class
+END
+DataPortalException.class
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/bin/Csla/Server/DataPortalException.class
+END
+DataPortalResult.class
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/bin/Csla/Server/DataPortalResult.class
+END
+DataPortal.class
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/bin/Csla/Server/DataPortal.class
+END
+IDataPortalServer.class
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/bin/Csla/Server/IDataPortalServer.class
+END
+CallMethodException.class
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/bin/Csla/Server/CallMethodException.class
+END

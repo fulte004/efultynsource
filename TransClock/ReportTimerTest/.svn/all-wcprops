@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/18/trunk/TransClock/ReportTimerTest
+END
+app.config
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/18/trunk/TransClock/ReportTimerTest/app.config
+END
+Form1.resx
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/15/trunk/TransClock/ReportTimerTest/Form1.resx
+END
+Form1.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/15/trunk/TransClock/ReportTimerTest/Form1.cs
+END
+App.ico
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/15/trunk/TransClock/ReportTimerTest/App.ico
+END
+ReportTimerTest.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/18/trunk/TransClock/ReportTimerTest/ReportTimerTest.csproj
+END
+AssemblyInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/15/trunk/TransClock/ReportTimerTest/AssemblyInfo.cs
+END

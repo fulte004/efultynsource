@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/bin/Csla/Security
+END
+AuthorizationRules.class
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/bin/Csla/Security/AuthorizationRules.class
+END
+RolesForProperty.class
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/bin/Csla/Security/RolesForProperty.class
+END
+AuthorizeReadWrite.class
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/bin/Csla/Security/AuthorizeReadWrite.class
+END
+SharedAuthorizationRules.class
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/bin/Csla/Security/SharedAuthorizationRules.class
+END
+AccessType.class
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/bin/Csla/Security/AccessType.class
+END
+PrincipalCache.class
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/bin/Csla/Security/PrincipalCache.class
+END
+AuthorizationRulesManager.class
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/bin/Csla/Security/AuthorizationRulesManager.class
+END
+BusinessPrincipalBase.class
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/bin/Csla/Security/BusinessPrincipalBase.class
+END

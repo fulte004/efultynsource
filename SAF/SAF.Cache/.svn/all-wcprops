@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/13/trunk/SAF/SAF.Cache
+END
+AssemblyInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/13/trunk/SAF/SAF.Cache/AssemblyInfo.cs
+END
+DefaultCacheStrategy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/13/trunk/SAF/SAF.Cache/DefaultCacheStrategy.cs
+END
+Cache.cs
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/13/trunk/SAF/SAF.Cache/Cache.cs
+END
+SAF.Cache.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/13/trunk/SAF/SAF.Cache/SAF.Cache.csproj
+END

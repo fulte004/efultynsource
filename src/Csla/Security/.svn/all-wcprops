@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/src/Csla/Security
+END
+AccessType.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/src/Csla/Security/AccessType.java
+END
+PrincipalCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/src/Csla/Security/PrincipalCache.java
+END
+AuthorizationRulesManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/src/Csla/Security/AuthorizationRulesManager.java
+END
+BusinessPrincipalBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/Csla/Security/BusinessPrincipalBase.java
+END
+AuthorizationRules.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/src/Csla/Security/AuthorizationRules.java
+END
+RolesForProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/src/Csla/Security/RolesForProperty.java
+END
+AuthorizeReadWrite.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/src/Csla/Security/AuthorizeReadWrite.java
+END
+SharedAuthorizationRules.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/Csla/Security/SharedAuthorizationRules.java
+END

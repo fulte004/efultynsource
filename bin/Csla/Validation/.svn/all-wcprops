@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/bin/Csla/Validation
+END
+CommonRules$IntegerMinValueRuleArgs.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/bin/Csla/Validation/CommonRules$IntegerMinValueRuleArgs.class
+END
+SharedValidationRules.class
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/bin/Csla/Validation/SharedValidationRules.class
+END
+CommonRules$IntegerMaxValueRuleArgs.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/bin/Csla/Validation/CommonRules$IntegerMaxValueRuleArgs.class
+END
+DecoratedRuleArgs.class
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/bin/Csla/Validation/DecoratedRuleArgs.class
+END
+ValidationRulesManager.class
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/bin/Csla/Validation/ValidationRulesManager.class
+END
+RuleSeverity.class
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/bin/Csla/Validation/RuleSeverity.class
+END
+CommonRules.class
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/bin/Csla/Validation/CommonRules.class
+END
+RuleHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/bin/Csla/Validation/RuleHandler.class
+END
+ValidationRules.class
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/bin/Csla/Validation/ValidationRules.class
+END
+CommonRules$RegExRuleArgs.class
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/bin/Csla/Validation/CommonRules$RegExRuleArgs.class
+END
+BrokenRulesCollection.class
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/bin/Csla/Validation/BrokenRulesCollection.class
+END
+BrokenRule.class
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/bin/Csla/Validation/BrokenRule.class
+END
+RuleMethod.class
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/bin/Csla/Validation/RuleMethod.class
+END
+ValidationException.class
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/bin/Csla/Validation/ValidationException.class
+END
+RuleDescription.class
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/bin/Csla/Validation/RuleDescription.class
+END
+CommonRules$NullResultOptions.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/bin/Csla/Validation/CommonRules$NullResultOptions.class
+END
+CommonRules$MinValueRuleArgs.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/bin/Csla/Validation/CommonRules$MinValueRuleArgs.class
+END
+CommonRules$MaxValueRuleArgs.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/bin/Csla/Validation/CommonRules$MaxValueRuleArgs.class
+END
+IRuleMethod.class
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/bin/Csla/Validation/IRuleMethod.class
+END
+CommonRules$MinLengthRuleArgs.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/bin/Csla/Validation/CommonRules$MinLengthRuleArgs.class
+END
+CommonRules$RegExPatterns.class
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/bin/Csla/Validation/CommonRules$RegExPatterns.class
+END
+RuleArgs.class
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/bin/Csla/Validation/RuleArgs.class
+END
+CommonRules$MaxLengthRuleArgs.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/bin/Csla/Validation/CommonRules$MaxLengthRuleArgs.class
+END
+RulesList.class
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/bin/Csla/Validation/RulesList.class
+END

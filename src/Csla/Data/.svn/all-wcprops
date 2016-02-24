@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/9/trunk/src/Csla/Data
+END
+ObjectAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5/trunk/src/Csla/Data/ObjectAdapter.java
+END
+SafeResultSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/9/trunk/src/Csla/Data/SafeResultSet.java
+END
+SafeDataReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6/trunk/src/Csla/Data/SafeDataReader.java
+END
+DataMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5/trunk/src/Csla/Data/DataMapper.java
+END

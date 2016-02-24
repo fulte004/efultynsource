@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/src/Csla/ComponentModel
+END
+BindingListListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/src/Csla/ComponentModel/BindingListListener.java
+END
+AddingNewEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/Csla/ComponentModel/AddingNewEvent.java
+END
+RemovingItemEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/src/Csla/ComponentModel/RemovingItemEvent.java
+END
+ListChangedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/src/Csla/ComponentModel/ListChangedEvent.java
+END
+ListChangedType.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/Csla/ComponentModel/ListChangedType.java
+END

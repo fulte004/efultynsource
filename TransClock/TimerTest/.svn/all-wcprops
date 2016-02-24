@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/18/trunk/TransClock/TimerTest
+END
+app.config
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/18/trunk/TransClock/TimerTest/app.config
+END
+App.ico
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/15/trunk/TransClock/TimerTest/App.ico
+END
+Class1.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/18/trunk/TransClock/TimerTest/Class1.cs
+END
+TimerTest.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/18/trunk/TransClock/TimerTest/TimerTest.csproj
+END
+AssemblyInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/15/trunk/TransClock/TimerTest/AssemblyInfo.cs
+END

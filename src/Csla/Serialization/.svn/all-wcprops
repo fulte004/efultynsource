@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/src/Csla/Serialization
+END
+SerializationFormatterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/src/Csla/Serialization/SerializationFormatterFactory.java
+END
+BinaryFormatterWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/Csla/Serialization/BinaryFormatterWrapper.java
+END
+SerializationFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/Csla/Serialization/SerializationFormatter.java
+END

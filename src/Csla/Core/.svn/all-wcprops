@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/4/trunk/src/Csla/Core
+END
+ObjectCloner.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/src/Csla/Core/ObjectCloner.java
+END
+SavedEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/src/Csla/Core/SavedEventListener.java
+END
+EditableBusinessObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/src/Csla/Core/EditableBusinessObject.java
+END
+Savable.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/src/Csla/Core/Savable.java
+END
+IBindingList.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/src/Csla/Core/IBindingList.java
+END
+UndoableObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/src/Csla/Core/UndoableObject.java
+END
+BusinessObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/src/Csla/Core/BusinessObject.java
+END
+UndoException.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/src/Csla/Core/UndoException.java
+END
+UndoableBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/src/Csla/Core/UndoableBase.java
+END
+ListSortDirection.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/src/Csla/Core/ListSortDirection.java
+END
+EditableCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/src/Csla/Core/EditableCollection.java
+END
+BusinessBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/src/Csla/Core/BusinessBase.java
+END
+IReportTotalRowCount.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/src/Csla/Core/IReportTotalRowCount.java
+END
+Parent.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/src/Csla/Core/Parent.java
+END
+BindableBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/src/Csla/Core/BindableBase.java
+END
+BindableList.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/src/Csla/Core/BindableList.java
+END
+SupportUndo.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/src/Csla/Core/SupportUndo.java
+END
+IReadOnlyCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/src/Csla/Core/IReadOnlyCollection.java
+END
+SavedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/src/Csla/Core/SavedEvent.java
+END
+ReadOnlyBindingList.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/src/Csla/Core/ReadOnlyBindingList.java
+END
+ReadOnlyObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/src/Csla/Core/ReadOnlyObject.java
+END
+CommandObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/src/Csla/Core/CommandObject.java
+END

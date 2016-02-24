@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/13/trunk/SAF/SAF.Cryptography
+END
+CryptoRemotingServerSink.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/13/trunk/SAF/SAF.Cryptography/CryptoRemotingServerSink.cs
+END
+Certificate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/13/trunk/SAF/SAF.Cryptography/Certificate.cs
+END
+EnDecryption.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/13/trunk/SAF/SAF.Cryptography/EnDecryption.cs
+END
+CryptoRemotingClientSink.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/13/trunk/SAF/SAF.Cryptography/CryptoRemotingClientSink.cs
+END
+CryptRemotingSinkHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/13/trunk/SAF/SAF.Cryptography/CryptRemotingSinkHelper.cs
+END
+AssemblyInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/13/trunk/SAF/SAF.Cryptography/AssemblyInfo.cs
+END
+SAF.Cryptography.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/13/trunk/SAF/SAF.Cryptography/SAF.Cryptography.csproj
+END

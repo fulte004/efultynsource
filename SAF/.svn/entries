@@ -1,0 +1,116 @@
+10
+
+dir
+20
+http://efultynsource.googlecode.com/svn/trunk/SAF
+http://efultynsource.googlecode.com/svn
+
+
+
+2011-10-14T14:06:10.912098Z
+13
+eric.fultyn@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1f0e365b-eb84-21c7-1fb7-7c51c421cc9a
+
+SAF.Utility
+dir
+
+SAF.Cache
+dir
+
+SAF.Configuration
+dir
+
+SAF.Application.Configuration
+dir
+
+SAF.Library.Security
+dir
+
+SAF.WindowsService
+dir
+
+SAF.Application.Workflow
+dir
+
+SAF.Application.DocumentLayer
+dir
+
+SAF.Library.WindowsService
+dir
+
+SAF.Authentication
+dir
+
+SAF.Transaction
+dir
+
+SAF.WindowsService.Host
+dir
+
+SAF.EventNotification
+dir
+
+SAF.MessageQueue
+dir
+
+SAF.WindowsService.Test.Console
+dir
+
+SAF.Cryptography
+dir
+
+SAF.sln
+file
+
+
+
+
+2016-02-16T19:37:19.003696Z
+9c262c009f24f4e0a2ff3573c0284864
+2011-10-14T14:06:10.912098Z
+13
+eric.fultyn@gmail.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+19357
+
+SAF.ClassFactory
+dir
+
+SAF.Authorization
+dir
+

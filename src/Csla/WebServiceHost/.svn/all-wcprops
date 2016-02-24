@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/src/Csla/WebServiceHost
+END
+WebServicePortal.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/src/Csla/WebServiceHost/WebServicePortal.java
+END
+DeleteCompletedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/src/Csla/WebServiceHost/DeleteCompletedEvent.java
+END
+UpdateCompletedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/src/Csla/WebServiceHost/UpdateCompletedEvent.java
+END
+CreateCompletedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/src/Csla/WebServiceHost/CreateCompletedEvent.java
+END
+WebServicePortal2.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/src/Csla/WebServiceHost/WebServicePortal2.java
+END
+FetchCompletedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/src/Csla/WebServiceHost/FetchCompletedEvent.java
+END

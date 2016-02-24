@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/13/trunk/SAF/SAF.MessageQueue
+END
+SAF.MessageQueue.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/13/trunk/SAF/SAF.MessageQueue/SAF.MessageQueue.csproj
+END
+MSMQ.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/13/trunk/SAF/SAF.MessageQueue/MSMQ.cs
+END
+MessageQueueManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/13/trunk/SAF/SAF.MessageQueue/MessageQueueManager.cs
+END
+MQSeries.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/13/trunk/SAF/SAF.MessageQueue/MQSeries.cs
+END
+MessageQueue.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/13/trunk/SAF/SAF.MessageQueue/MessageQueue.cs
+END
+AssemblyInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/13/trunk/SAF/SAF.MessageQueue/AssemblyInfo.cs
+END

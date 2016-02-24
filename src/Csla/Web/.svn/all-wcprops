@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/src/Csla/Web
+END
+CslaDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/src/Csla/Web/CslaDataSource.java
+END
+SelectObjectArgs.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/src/Csla/Web/SelectObjectArgs.java
+END
+UpdateObjectArgs.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/src/Csla/Web/UpdateObjectArgs.java
+END
+DeleteObjectArgs.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/src/Csla/Web/DeleteObjectArgs.java
+END
+InsertObjectArgs.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/src/Csla/Web/InsertObjectArgs.java
+END
+CslaDataSourceView.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/src/Csla/Web/CslaDataSourceView.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/src/Csla/DataPortalClient
+END
+LocalProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/src/Csla/DataPortalClient/LocalProxy.java
+END
+WebServicesProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/Csla/DataPortalClient/WebServicesProxy.java
+END
+EnterpriseServicesProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/Csla/DataPortalClient/EnterpriseServicesProxy.java
+END
+RemotingProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/Csla/DataPortalClient/RemotingProxy.java
+END
+IDataPortalProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/Csla/DataPortalClient/IDataPortalProxy.java
+END
+MetroProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/src/Csla/DataPortalClient/MetroProxy.java
+END

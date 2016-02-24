@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/18/trunk/TransClock/ScheduleTimer
+END
+app.config
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/15/trunk/TransClock/ScheduleTimer/app.config
+END
+ScheduleFilter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/15/trunk/TransClock/ScheduleTimer/ScheduleFilter.cs
+END
+ScheduleConfiguration.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/15/trunk/TransClock/ScheduleTimer/ScheduleConfiguration.cs
+END
+EventStorage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/15/trunk/TransClock/ScheduleTimer/EventStorage.cs
+END
+ScheduleTimer.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/18/trunk/TransClock/ScheduleTimer/ScheduleTimer.csproj
+END
+IScheduledItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/15/trunk/TransClock/ScheduleTimer/IScheduledItem.cs
+END
+TimerJob.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/15/trunk/TransClock/ScheduleTimer/TimerJob.cs
+END
+AssemblyInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/15/trunk/TransClock/ScheduleTimer/AssemblyInfo.cs
+END
+MethodCall.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/15/trunk/TransClock/ScheduleTimer/MethodCall.cs
+END
+ReportTimer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/15/trunk/TransClock/ScheduleTimer/ReportTimer.cs
+END
+ScheduleTimer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/15/trunk/TransClock/ScheduleTimer/ScheduleTimer.cs
+END

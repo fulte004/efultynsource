@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/13/trunk/SAF/SAF.Authentication
+END
+SAF.Authentication.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/13/trunk/SAF/SAF.Authentication/SAF.Authentication.csproj
+END
+SAFIdentity.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/13/trunk/SAF/SAF.Authentication/SAFIdentity.cs
+END
+AssemblyInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/13/trunk/SAF/SAF.Authentication/AssemblyInfo.cs
+END
+SAFPrincipal.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/13/trunk/SAF/SAF.Authentication/SAFPrincipal.cs
+END
+ADAuthenticationProvider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/13/trunk/SAF/SAF.Authentication/ADAuthenticationProvider.cs
+END

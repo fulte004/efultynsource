@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/bin/Csla/Core
+END
+ObjectCloner.class
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/bin/Csla/Core/ObjectCloner.class
+END
+SavedEventListener.class
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/bin/Csla/Core/SavedEventListener.class
+END
+EditableBusinessObject.class
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/bin/Csla/Core/EditableBusinessObject.class
+END
+Savable.class
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/bin/Csla/Core/Savable.class
+END
+IBindingList.class
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/bin/Csla/Core/IBindingList.class
+END
+UndoableObject.class
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/bin/Csla/Core/UndoableObject.class
+END
+BusinessObject.class
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/bin/Csla/Core/BusinessObject.class
+END
+UndoException.class
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/bin/Csla/Core/UndoException.class
+END
+ListSortDirection.class
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/bin/Csla/Core/ListSortDirection.class
+END
+UndoableBase.class
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/bin/Csla/Core/UndoableBase.class
+END
+EditableCollection.class
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/bin/Csla/Core/EditableCollection.class
+END
+BusinessBase.class
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/bin/Csla/Core/BusinessBase.class
+END
+IReportTotalRowCount.class
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/bin/Csla/Core/IReportTotalRowCount.class
+END
+Parent.class
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/bin/Csla/Core/Parent.class
+END
+BindableBase.class
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/bin/Csla/Core/BindableBase.class
+END
+BindableList.class
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/bin/Csla/Core/BindableList.class
+END
+SupportUndo.class
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/bin/Csla/Core/SupportUndo.class
+END
+IReadOnlyCollection.class
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/bin/Csla/Core/IReadOnlyCollection.class
+END
+ReadOnlyObject.class
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/bin/Csla/Core/ReadOnlyObject.class
+END
+ReadOnlyBindingList.class
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/bin/Csla/Core/ReadOnlyBindingList.class
+END
+SavedEvent.class
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/bin/Csla/Core/SavedEvent.class
+END
+CommandObject.class
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/bin/Csla/Core/CommandObject.class
+END

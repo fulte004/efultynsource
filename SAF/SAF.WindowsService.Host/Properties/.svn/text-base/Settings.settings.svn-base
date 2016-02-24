@@ -1,0 +1,23 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SAF.WindowsService.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AssemblyPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">bin</Value>
+    </Setting>
+    <Setting Name="ServiceName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">SAF.WindowsService</Value>
+    </Setting>
+    <Setting Name="EmptyService" Type="SAF.Library.WindowsService.Service" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;Service xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="SAF.WindowsService.EmptyService,SAF.WindowsService" name="empty"&gt;
+  &lt;File&gt;C:\temp\EmptyService.txt&lt;/File&gt;
+  &lt;RunAs InheritIdentity="false"&gt;
+    &lt;Domain&gt;FNFIS&lt;/Domain&gt;
+    &lt;User&gt;svc-filewatcher-test&lt;/User&gt;
+    &lt;Password&gt;FrrgMk9GFV&lt;/Password&gt;
+  &lt;/RunAs&gt;
+&lt;/Service&gt;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

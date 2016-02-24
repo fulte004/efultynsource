@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/16/trunk/SAFFramework/Template/Source/MyTest/MyTest.Library.WindowsService
+END
+IService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/16/trunk/SAFFramework/Template/Source/MyTest/MyTest.Library.WindowsService/IService.cs
+END
+Service.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/16/trunk/SAFFramework/Template/Source/MyTest/MyTest.Library.WindowsService/Service.xsd
+END
+IServiceMetadata.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/16/trunk/SAFFramework/Template/Source/MyTest/MyTest.Library.WindowsService/IServiceMetadata.cs
+END
+MyTest.Library.WindowsService.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/16/trunk/SAFFramework/Template/Source/MyTest/MyTest.Library.WindowsService/MyTest.Library.WindowsService.csproj
+END
+Service.designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/16/trunk/SAFFramework/Template/Source/MyTest/MyTest.Library.WindowsService/Service.designer.cs
+END
+Service.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/16/trunk/SAFFramework/Template/Source/MyTest/MyTest.Library.WindowsService/Service.cs
+END
+ServiceMetadataAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/16/trunk/SAFFramework/Template/Source/MyTest/MyTest.Library.WindowsService/ServiceMetadataAttribute.cs
+END

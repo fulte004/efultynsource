@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/13/trunk/SAF/SAF.WindowsService.Host
+END
+ProjectInstaller.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/13/trunk/SAF/SAF.WindowsService.Host/ProjectInstaller.cs
+END
+SAF.WindowsService.Host.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/13/trunk/SAF/SAF.WindowsService.Host/SAF.WindowsService.Host.csproj
+END
+ServiceHost.resx
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/13/trunk/SAF/SAF.WindowsService.Host/ServiceHost.resx
+END
+ServiceHost.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/13/trunk/SAF/SAF.WindowsService.Host/ServiceHost.cs
+END
+app.config
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/13/trunk/SAF/SAF.WindowsService.Host/app.config
+END
+ProjectInstaller.resx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/13/trunk/SAF/SAF.WindowsService.Host/ProjectInstaller.resx
+END

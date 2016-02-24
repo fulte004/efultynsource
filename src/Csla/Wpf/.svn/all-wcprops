@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/src/Csla/Wpf
+END
+Validator.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/src/Csla/Wpf/Validator.java
+END
+DataDecoratorBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/src/Csla/Wpf/DataDecoratorBase.java
+END
+CslaDataProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/src/Csla/Wpf/CslaDataProvider.java
+END
+ObjectStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/src/Csla/Wpf/ObjectStatus.java
+END
+VisibilityMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/src/Csla/Wpf/VisibilityMode.java
+END
+Authorizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/src/Csla/Wpf/Authorizer.java
+END
+IdentityConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/src/Csla/Wpf/IdentityConverter.java
+END
+CslaDataProviderCommandManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/src/Csla/Wpf/CslaDataProviderCommandManager.java
+END

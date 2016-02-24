@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/13/trunk/SAF/SAF.WindowsService
+END
+SAF.WindowsService.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/13/trunk/SAF/SAF.WindowsService/SAF.WindowsService.csproj
+END
+EmptyService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/13/trunk/SAF/SAF.WindowsService/EmptyService.cs
+END
+app.config
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/13/trunk/SAF/SAF.WindowsService/app.config
+END
+SecuritySwitchThread.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/13/trunk/SAF/SAF.WindowsService/SecuritySwitchThread.cs
+END
+ServiceEngine.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/13/trunk/SAF/SAF.WindowsService/ServiceEngine.cs
+END

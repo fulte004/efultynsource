@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/13/trunk/SAF/SAF.Application.Workflow
+END
+AssemblyInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/13/trunk/SAF/SAF.Application.Workflow/AssemblyInfo.cs
+END
+SAF.Application.Workflow.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/13/trunk/SAF/SAF.Application.Workflow/SAF.Application.Workflow.csproj
+END
+Workflow.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/13/trunk/SAF/SAF.Application.Workflow/Workflow.cs
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/13/trunk/SAF/SAF.Authorization
+END
+SAF.Authorization.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/13/trunk/SAF/SAF.Authorization/SAF.Authorization.csproj
+END
+SAFSecurityAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/13/trunk/SAF/SAF.Authorization/SAFSecurityAttribute.cs
+END
+SAFSecurityPermission.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/13/trunk/SAF/SAF.Authorization/SAFSecurityPermission.cs
+END
+AssemblyInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/13/trunk/SAF/SAF.Authorization/AssemblyInfo.cs
+END
+SAF.snk
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/13/trunk/SAF/SAF.Authorization/SAF.snk
+END
+DefaultAuthorizationProvider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/13/trunk/SAF/SAF.Authorization/DefaultAuthorizationProvider.cs
+END

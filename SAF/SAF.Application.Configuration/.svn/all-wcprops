@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/13/trunk/SAF/SAF.Application.Configuration
+END
+AssemblyInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/13/trunk/SAF/SAF.Application.Configuration/AssemblyInfo.cs
+END
+SAF.Application.Configuration.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/13/trunk/SAF/SAF.Application.Configuration/SAF.Application.Configuration.csproj
+END
+ConfigurationManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/13/trunk/SAF/SAF.Application.Configuration/ConfigurationManager.cs
+END
+WorkFlowConfiguration.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/13/trunk/SAF/SAF.Application.Configuration/WorkFlowConfiguration.cs
+END
+DocumentLayerConfiguration.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/13/trunk/SAF/SAF.Application.Configuration/DocumentLayerConfiguration.cs
+END

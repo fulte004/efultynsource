@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/bin/Csla/WebServiceHost
+END
+WebServicePortal.class
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/bin/Csla/WebServiceHost/WebServicePortal.class
+END
+DeleteCompletedEvent.class
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/bin/Csla/WebServiceHost/DeleteCompletedEvent.class
+END
+UpdateCompletedEvent.class
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/bin/Csla/WebServiceHost/UpdateCompletedEvent.class
+END
+CreateCompletedEvent.class
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/bin/Csla/WebServiceHost/CreateCompletedEvent.class
+END
+FetchCompletedEvent.class
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/bin/Csla/WebServiceHost/FetchCompletedEvent.class
+END
