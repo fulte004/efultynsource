@@ -1,80 +1,0 @@
-10
-
-dir
-20
-http://efultynsource.googlecode.com/svn/trunk/SAFFramework/Template/Source/MyTest
-http://efultynsource.googlecode.com/svn
-
-
-
-2012-11-15T15:25:07.803133Z
-17
-eric.fultyn@gmail.com
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1f0e365b-eb84-21c7-1fb7-7c51c421cc9a
-
-MyTest.WindowsService.EmptyService
-dir
-
-MyTest.WindowsService.Test.Console
-dir
-
-MyTest.WindowsService
-dir
-
-MyTest.sln
-file
-
-
-
-
-2016-02-16T19:37:12.352093Z
-4a27b963adc33b0bc546900f3968ad08
-2011-12-13T18:32:34.134455Z
-16
-eric.fultyn@gmail.com
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-17360
-
-MyTest.Library.WindowsService
-dir
-
-MyTest.Utility
-dir
-
-MyTest.WindowsService.Host
-dir
-

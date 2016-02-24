@@ -18,10 +18,12 @@ namespace MyTest.WindowsService.Test.Console
         private ServiceEngine engine = null;
 
         public Program() {
-            defaultWriter = EnterpriseLibraryContainer.Current.GetInstance<LogWriter>();
+            LogWriterFactory logWriterFactory = new LogWriterFactory();
+            defaultWriter = logWriterFactory.Create();
         }
 
         private void GetEncryptedPassword() {
+            
             CryptographyManager crypto = EnterpriseLibraryContainer.Current.GetInstance<CryptographyManager>();
             System.Console.Write("\nEnter new password:");
             string password = System.Console.ReadLine();
